@@ -11,7 +11,7 @@
 
 
 ## Resources
-* [DSA Lessons](https://github.com/joinpursuit/Pursuit-Core-DSA#lessons) 
+* [Pursuit-Core-DSA Lessons](https://github.com/joinpursuit/Pursuit-Core-DSA#lessons) 
 
 ## Practice Problems
 * [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
