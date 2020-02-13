@@ -19,3 +19,4 @@
 * [Implementing a Queue](https://www.codewars.com/kata/55a9c0994cb7e284d500005e)
 * [Recursion-1 - CodingJS](https://the-winter.github.io/codingjs/)
 * [Sum the tree](https://www.codewars.com/kata/5800580f8f7ddaea13000025)
+* [Remove duplicates from Array](https://github.com/joinpursuit/Pursuit-Core-DSA/blob/master/problems/ArrayProblems/RemoveDuplicates.md)
