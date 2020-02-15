@@ -7,11 +7,13 @@
 * Be able to tell the runtime complexity of simple algorithms (Revise Big O notation)
 * Recursive functions
 * What's a tree, how to implement in JS and how to traverse it
+* Binary Search
 * Sorting Algorithms keywords and visualizations
 
 
 ## Resources
 * [Pursuit-Core-DSA Lessons](https://github.com/joinpursuit/Pursuit-Core-DSA#lessons) 
+* [Binary Search Article](https://medium.com/@jeffrey.allen.lewis/javascript-algorithms-explained-binary-search-25064b896470)
 
 ## Practice Problems
 * [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
